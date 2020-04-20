@@ -13,4 +13,16 @@ This repo contains all of the study material as well as resouces for each of the
 [Detailed course structure](https://docs.google.com/document/d/1KJts1SD5AxsXfUqPIbvDpIocLRGsFIZCrU3iuixZpus/edit)
 
 
+## Coordinators
+
+[Tanisha Sabherwal](https://github.com/tanisha03)
+
+[Harsh Jobanputra](https://github.com/harsh2201)
+
+[Saurabh Chauhan](https://github.com/blitz450)
+
+[Yogesh Jakhar](https://github.com/yogeshjakhar19)
+
+[Shubham Goyal](https://github.com/shugo111)
+
 
