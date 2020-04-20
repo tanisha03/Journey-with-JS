@@ -15,14 +15,15 @@ This repo contains all of the study material as well as resouces for each of the
 
 ## Coordinators
 
-[Tanisha Sabherwal](https://github.com/tanisha03)
-
 [Harsh Jobanputra](https://github.com/harsh2201)
 
 [Saurabh Chauhan](https://github.com/blitz450)
 
+[Shubham Goyal](https://github.com/shugo111)
+
+[Tanisha Sabherwal](https://github.com/tanisha03)
+
 [Yogesh Jakhar](https://github.com/yogeshjakhar19)
 
-[Shubham Goyal](https://github.com/shugo111)
 
 
