@@ -6,6 +6,8 @@ This repo contains all of the study material as well as resouces for each of the
 
 
 ## Links
+[Intro to Mentors](https://drive.google.com/file/d/1xVnHcZxKn2dv9NDrP2NKNt0lIFJR8P9U/view)
+
 
 [Timeline for course](https://docs.google.com/spreadsheets/d/151wNgh1Gw4IyIw8cUuGXPI8m9FjaZ6_76TM4sJkeL0o/edit?ts=5e95dc8f#gid=0)
 
