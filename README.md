@@ -28,4 +28,8 @@ This repo contains all of the study material as well as resouces for each of the
 [Yogesh Jakhar](https://github.com/yogeshjakhar19)
 
 
+## Links to Presentation on Slides.com
+[DAY 1 : Intro to JS](https://slides.com/saurabhchauhan-1/deck/fullscreen)
+
+[DAY 2 : JS Fundamentals](https://slides.com/harshjobanputra/deck/fullscreen)
 
