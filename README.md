@@ -14,6 +14,9 @@ This repo contains all of the study material as well as resouces for each of the
 
 [Detailed course structure](https://docs.google.com/document/d/1KJts1SD5AxsXfUqPIbvDpIocLRGsFIZCrU3iuixZpus/edit)
 
+## Day 1
+ - [Presentation](https://slides.com/saurabhchauhan-1/deck/fullscreen)
+
 ## Day 2
   - [Presentation](https://slides.com/harshjobanputra/deck)
 
