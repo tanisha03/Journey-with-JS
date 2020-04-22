@@ -14,6 +14,16 @@ This repo contains all of the study material as well as resouces for each of the
 
 [Detailed course structure](https://docs.google.com/document/d/1KJts1SD5AxsXfUqPIbvDpIocLRGsFIZCrU3iuixZpus/edit)
 
+## Day 2
+  - [Presentation](https://slides.com/harshjobanputra/deck)
+
+## Day 3
+  - [Presentation](https://slides.com/harshjobanputra/eop-js-day-2)
+  - [Codepen Example 1](https://codepen.io/harsh-jobanputra/pen/vYNyPrr?editors=1011)
+  - [Codepen Example 2](https://codepen.io/harsh-jobanputra/pen/wvKoZKv?editors=0011)
+  - [Codepen Example 3](https://codepen.io/harsh-jobanputra/pen/ZEbBZKJ?editors=1010)
+  - [Codepen Example 4](https://codepen.io/harsh-jobanputra/pen/qBOqwoQ?editors=1111)
+
 
 ## Coordinators
 
