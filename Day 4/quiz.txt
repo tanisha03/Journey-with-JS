@@ -1,0 +1,59 @@
+When was Es6 released?
+2010
+2015    //
+2016
+2019
+
+Which one of these is true: 
+var is block scoped 
+const values can be changed
+let is block scoped  //
+
+What is the syntax for Template strings:
+"Hello name, how are you?"
+"Hello" + name + " , how are you? "
+"Hello" + ${name} + ", how are you?" 
+`Hello ${name}, how are you?` //
+
+What is syntax for arrow functions:
+()->{}
+()=>{}  //
+function (){}
+function ()=>{}
+
+Can we use destructuring on objects?
+true //
+false
+
+Can we use destructuring on arrays?
+true //
+false 
+
+We can only have fixed number of arguements in JS functions. True or False?
+true
+false //
+
+Can we use spread operator ... for making separate copy of objects?
+true //
+false
+
+What is ...
+Rest parameter syntax
+Spread operator
+Both //
+None of these
+
+Rest parameter syntax and Spread operator look similar
+true //
+false
+
+How do you call Parent class's constructor?
+this
+super() //
+superConstructor()
+parent.constructor()
+
+Feedback question
+
+
+
