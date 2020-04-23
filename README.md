@@ -32,6 +32,12 @@ This repo contains all of the study material as well as resouces for each of the
 ## Day 4
   - [Presentation](https://slides.com/saurabhchauhan-1/deck-83d2ee#/) [PDF in folder]
   - Extra Examples Discussed - in folder Day 4
+  
+## Quiz Results
+ ![Day 1 results](https://github.com/tanisha03/Journey-with-JS/blob/master/Quiz%20Results/Day%201%20EOP%20JS.jpg)
+ ![Day 2 results](https://github.com/tanisha03/Journey-with-JS/blob/master/Quiz%20Results/Day%202%20EOP%20JS.jpg)
+ ![Day 3 results](https://github.com/tanisha03/Journey-with-JS/blob/master/Quiz%20Results/Day%203%20EOP%20JS.jpg)
+ ![Day 4 results](https://github.com/tanisha03/Journey-with-JS/blob/master/Quiz%20Results/Day%204%20EOP%20JS.jpg)
 
 ## Coordinators
 
@@ -44,5 +50,3 @@ This repo contains all of the study material as well as resouces for each of the
 [Tanisha Sabherwal](https://github.com/tanisha03)
 
 [Yogesh Jakhar](https://github.com/yogeshjakhar19)
-
-
