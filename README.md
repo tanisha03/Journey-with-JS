@@ -38,6 +38,9 @@ This repo contains all of the study material as well as resouces for each of the
   - [Presentation](https://slides.com/saurabhchauhan-1/deck-8d3090) [PDF in folder]
   - Extra Files for the "Quiz" project - in folder Day 5
 
+## Day 6: Closures and Callbacks
+  - [Presentation](https://slides.com/saurabhchauhan-1/closures-and-callbacks-by-tanisha)
+  - Examples covered - in folder Day 6
 
 ## Quiz Results
  ![Day 1 results](https://github.com/tanisha03/Journey-with-JS/blob/master/Quiz%20Results/Day%201%20EOP%20JS.jpg)
