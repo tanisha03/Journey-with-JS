@@ -14,14 +14,14 @@ This repo contains all of the study material as well as resouces for each of the
 
 [Detailed course structure](https://docs.google.com/document/d/1KJts1SD5AxsXfUqPIbvDpIocLRGsFIZCrU3iuixZpus/edit)
 
-## Day 1
+## Day 1: Intro to JS
  - [Presentation](https://slides.com/saurabhchauhan-1/deck/fullscreen) 
  
 
-## Day 2
+## Day 2: Programming Fundamentals in JS
   - [Presentation](https://slides.com/harshjobanputra/deck) 
 
-## Day 3
+## Day 3: DOM 
   - [Presentation](https://slides.com/harshjobanputra/eop-js-day-2) 
   - [Codepen Example 1](https://codepen.io/harsh-jobanputra/pen/vYNyPrr?editors=1011)
   - [Codepen Example 2](https://codepen.io/harsh-jobanputra/pen/wvKoZKv?editors=0011)
@@ -29,12 +29,12 @@ This repo contains all of the study material as well as resouces for each of the
   - [Codepen Example 4](https://codepen.io/harsh-jobanputra/pen/qBOqwoQ?editors=1111)
 
 
-## Day 4
+## Day 4: ES6
   - [Presentation](https://slides.com/saurabhchauhan-1/deck-83d2ee#/) [PDF in folder]
   - Extra Examples Discussed - in folder Day 4
   
 
-## Day 5
+## Day 5: Debugging in JS
   - [Presentation](https://slides.com/saurabhchauhan-1/deck-8d3090) [PDF in folder]
   - Extra Files for the "Quiz" project - in folder Day 5
 
