@@ -1,0 +1,147 @@
+<html>
+    <body>
+        <div>Hello World</div>
+    </body>
+</html>
+<script>
+// SCOPE
+
+// local and global scope
+var g=10; //global
+function scope(){
+    var l=20; //local
+    console.log(g);
+    console.log(l);
+}
+scope();
+
+//function and block scope
+function fun(){
+    var a=10;
+    let b=20;
+    const c=30;
+    console.log(a);
+    console.log(b);
+    console.log(c);
+    if(b==20){
+       var x=9; 
+    }
+    console.log(x); //will give error if x is let or const
+}
+fun();
+
+//Hoisting
+console.log(a);
+var a="Sunil"; //says undefined
+
+// console.log(abab);
+let abab=5; //gives reference error
+
+//LEXICAL SCOPING
+function xyz(){
+    var firstname="Tanisha";
+    function xyz2(){
+        var lastname="sabherwal";
+        console.log(firstname+" "+lastname);
+    }
+    xyz2();
+}
+xyz();
+
+
+//CLOSURES
+function xyz(){
+    var firstname="Tanisha";
+    function xyz2(){
+        var lastname="sabherwal";
+        console.log(firstname+" "+lastname);
+    }
+    return xyz2;
+}
+const f1=xyz();
+f1();
+
+function add(x){
+    function addTo(y){
+        return x+y;
+    }
+    return addTo;
+}
+var f2=add(5);
+var ans=f2(3);
+console.log(ans); //8
+
+//using ES6
+var add = (x) =>{
+    var addTo = (y) => x+y;
+    return addTo;
+}
+var f2=add(5);
+var ans=f2(3);
+console.log(ans); //8
+
+//CALLBACK
+function sayHello(name){
+    alert("Hello  "+name);
+}
+function tellName(callback){
+    var name=prompt("Tell name");
+    callback(name);
+}
+tellName(sayHello);
+
+function addTo(a){
+    var b=prompt("Enter Second Number");
+    console.log(Number(a)+Number(b));
+}
+function add(callback){
+    var a=prompt("Enter first number");
+    callback(a);
+}
+add(addTo);
+
+// using ES6
+var add = (x,callback) =>{
+    callback(x);
+}
+var addTo = (y) => console.log(5+y);
+add(5,addTo); //10
+
+//callback example
+var a =document.querySelector("div");
+function abc(){
+    a.style.color="red"
+    }
+a.addEventListener("click", abc);    
+
+//callback hell
+function a(cb) { cb(42); } 
+function b(cb) { cb(10); }
+function c(a, b, cb) { cb(a + b); }
+function d() {
+    a(function (x) {
+        b(function (y) {
+            compute_sum(x, y, function(result) {
+                console.log(result);  // 52
+            });
+        });
+    });
+}
+
+
+function one() {
+  setTimeout(function() {
+    console.log('1. First thing setting up second thing');
+    setTimeout(function() {
+      console.log('2. Second thing setting up third thing');
+      setTimeout(function() {
+        console.log('3. Third thing setting up fourth thing');
+        setTimeout(function() {
+          console.log('4. Fourth thing');
+        }, 2000);
+      }, 2000);
+    }, 2000);
+  }, 2000);
+};
+
+</script>
