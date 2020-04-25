@@ -33,6 +33,12 @@ This repo contains all of the study material as well as resouces for each of the
   - [Presentation](https://slides.com/saurabhchauhan-1/deck-83d2ee#/) [PDF in folder]
   - Extra Examples Discussed - in folder Day 4
   
+
+## Day 5
+  - [Presentation](https://slides.com/saurabhchauhan-1/deck-8d3090) [PDF in folder]
+  - Extra Files for the "Quiz" project - in folder Day 5
+
+
 ## Quiz Results
  ![Day 1 results](https://github.com/tanisha03/Journey-with-JS/blob/master/Quiz%20Results/Day%201%20EOP%20JS.jpg)
  ![Day 2 results](https://github.com/tanisha03/Journey-with-JS/blob/master/Quiz%20Results/Day%202%20EOP%20JS.jpg)
