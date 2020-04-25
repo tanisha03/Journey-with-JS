@@ -121,7 +121,7 @@ function c(a, b, cb) { cb(a + b); }
 function d() {
     a(function (x) {
         b(function (y) {
-            compute_sum(x, y, function(result) {
+            c(x, y, function(result) {
                 console.log(result);  // 52
             });
         });
