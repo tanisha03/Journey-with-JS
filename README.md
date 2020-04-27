@@ -48,6 +48,8 @@ This repo contains all of the study material as well as resouces for each of the
  ![Day 2 results](https://github.com/tanisha03/Journey-with-JS/blob/master/Quiz%20Results/Day%202%20EOP%20JS.jpg)
  ![Day 3 results](https://github.com/tanisha03/Journey-with-JS/blob/master/Quiz%20Results/Day%203%20EOP%20JS.jpg)
  ![Day 4 results](https://github.com/tanisha03/Journey-with-JS/blob/master/Quiz%20Results/Day%204%20EOP%20JS.jpg)
+ ![Day 5 results](https://github.com/tanisha03/Journey-with-JS/blob/master/Quiz%20Results/Day%205%20EOP%20JS.jpg)
+
 
 ## Coordinators
 
