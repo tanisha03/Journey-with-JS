@@ -41,6 +41,7 @@ This repo contains all of the study material as well as resouces for each of the
 ## Day 6: Closures and Callbacks
   - [Presentation](https://slides.com/saurabhchauhan-1/closures-and-callbacks-by-tanisha)
   - Examples covered - in folder Day 6
+  - [Article](https://medium.com/@tanisha031199/js-the-functional-programming-paradigm-66f1b8d57ee8)
 
 ## Quiz Results
  ![Day 1 results](https://github.com/tanisha03/Journey-with-JS/blob/master/Quiz%20Results/Day%201%20EOP%20JS.jpg)
