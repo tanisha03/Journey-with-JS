@@ -49,6 +49,13 @@ This repo contains all of the study material as well as resouces for each of the
 - [Presentation](https://docs.google.com/presentation/d/1dR7h3dusEVmE1ZGF7MRPnEElWYmtwXonnRDqqNuddK8/edit#slide=id.g35f391192_00)[PDF in folder]
   -Extra Examples Discussed - in folder Day 7
 
+## Day 8: Transition and Animations
+
+- [Drawing Shapes](https://codepen.io/tanisha03/pen/bGVqLww)
+- [Transitions](https://codepen.io/tanisha03/pen/XWmMZxo)
+- [Animations](https://codepen.io/tanisha03/pen/ExVmogg)
+
+
 ## Day 9: Fetch api
 
 - [Presentation](https://docs.google.com/presentation/d/1zWF_1Ha93mFTb4-RwU30_1RWKWAv-oMQ/edit#slide=id.p6)[PDF in folder]
