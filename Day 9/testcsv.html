@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script>
+    <title>Document</title>
+  </head>
+  <body>
+    <canvas id="myChart" width="400" height="400"></canvas>
+    <script>
+      const xlables = [];
+      const ylables = [];
+      getdata();
+      async function getdata() {
+        await demo();
+        let ctx = document.getElementById("myChart").getContext("2d");
+        let myChart = new Chart(ctx, {
+          type: "line",
+          data: {
+            labels: xlables,
+            datasets: [
+              {
+                label: "global weather",
+                data: ylables,
+                backgroundColor: ["rgba(255, 99, 132, 0.2)"],
+                borderColor: ["rgba(255, 99, 132, 1)"],
+                borderWidth: 1,
+              },
+            ],
+          },
+        });
+      }
+
+      async function demo() {
+        const response = await fetch("ZonAnn.Ts+dSST.csv");
+        const data = await response.text();
+        const row = data.split("\n").slice(1);
+        row.forEach((col) => {
+          const dat = col.split(",");
+          const year = dat[0];
+          xlables.push(year);
+          const temp = dat[1];
+          ylables.push(parseFloat(temp) + 14);
+          console.log(year, temp);
+        });
+      }
+    </script>
+  </body>
+</html>

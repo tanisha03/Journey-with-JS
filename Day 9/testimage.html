@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <img src="" id="demo" width="100" height="100" />
+    <script>
+      demo();
+      async function demo() {
+        const response = await fetch("rainbow.jpg", { mode: "cors" });
+        const data = await response.blob();
+        document.getElementById("demo").src = URL.createObjectURL(data);
+      }
+      // fetch("rainbow.jpg")
+      //   .then((response) => {
+      //     return response.blob();
+      //   })
+      //   .then((data) => {
+      //     console.log(data);
+      //     document.getElementById("demo").src = URL.createObjectURL(data);
+      //   });
+    </script>
+  </body>
+</html>
