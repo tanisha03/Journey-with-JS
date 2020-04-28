@@ -54,6 +54,7 @@ This repo contains all of the study material as well as resouces for each of the
 - [Drawing Shapes](https://codepen.io/tanisha03/pen/bGVqLww)
 - [Transitions](https://codepen.io/tanisha03/pen/XWmMZxo)
 - [Animations](https://codepen.io/tanisha03/pen/ExVmogg)
+- [Codepen Assigment Doc](https://docs.google.com/document/d/1EWTEt9KCGOgrogTpOtvfiyJKZ2DWQDnMzTjlGY3tQyA/edit)
 
 
 ## Day 9: Fetch api
