@@ -47,7 +47,7 @@ This repo contains all of the study material as well as resouces for each of the
 ## Day 7: Promises, async and await
 
 - [Presentation](https://docs.google.com/presentation/d/1dR7h3dusEVmE1ZGF7MRPnEElWYmtwXonnRDqqNuddK8/edit#slide=id.g35f391192_00)[PDF in folder]
-  -Extra Examples Discussed - in folder Day 7
+  -Examples Discussed - in folder Day 7
 
 ## Day 8: Transition and Animations
 
@@ -59,12 +59,18 @@ This repo contains all of the study material as well as resouces for each of the
 
 ## Day 9: Fetch api
 
-- [Presentation](https://docs.google.com/presentation/d/1zWF_1Ha93mFTb4-RwU30_1RWKWAv-oMQ/edit#slide=id.p6)[PDF in folder]
-  -Extra Examples Discussed - in folder Day 9
+- [Presentation](https://docs.google.com/presentation/d/1zWF_1Ha93mFTb4-RwU30_1RWKWAv-oMQ/)[PDF in folder]
+  -Code files - in folder Day 9
 
 ## Day 11: Weather api
 
--Extra Examples Discussed - in folder Day 11
+-Code files - in folder Day 11
+
+## Day 12: Intro to ReactJS
+
+- [Presentation](https://reactjspresentation.web.app/)[PDF in folder]
+
+- Code files - in repo :  https://github.com/harsh2201/Reactjs-Example
 
 ## Quiz Results
 
