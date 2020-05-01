@@ -54,6 +54,10 @@ This repo contains all of the study material as well as resouces for each of the
 - [Presentation](https://docs.google.com/presentation/d/1zWF_1Ha93mFTb4-RwU30_1RWKWAv-oMQ/edit#slide=id.p6)[PDF in folder]
   -Extra Examples Discussed - in folder Day 9
 
+## Day 11: Weather api
+
+-Extra Examples Discussed - in folder Day 11
+
 ## Quiz Results
 
 ![Day 1 results](https://github.com/tanisha03/Journey-with-JS/blob/master/Quiz%20Results/Day%201%20EOP%20JS.jpg)
